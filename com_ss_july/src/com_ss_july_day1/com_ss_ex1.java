@@ -1,4 +1,4 @@
-package com_ss_july_week1;
+package com_ss_july_day1;
 
 public class com_ss_ex1 {
 
